@@ -1,5 +1,4 @@
 
-> tak lengkap lagi . kene buat open port dengan openvpn kene buat dl
 1. Using Google Cloud : Cloud Computing Services
 
 - Open up cloud terminal 
