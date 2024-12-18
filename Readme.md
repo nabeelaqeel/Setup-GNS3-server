@@ -278,10 +278,15 @@ remote 34.29.208.198 1194 udp<br>
 	- Choose `172.16.253.6`
 
 ---
-## Problem 
+## Problem and Solutions
 
-- Your server and gns3 might not be in the same version
-	- If so just update or download the latest gns3 in their website
+ 1. Version Mismatch Between Server and GNS3
 
+- If your server and GNS3 versions are not the same:
+- Update your server or download the latest version of GNS3 from their [official website](https://www.gns3.com).
 
+2. External IP Address Changes After Restart
+
+- When you restart your device, the external IP address might change:
+- Update the `.ovpn` file to reflect the new external IP address.
 --- 
