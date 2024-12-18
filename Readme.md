@@ -261,7 +261,7 @@ i86LiziN4Wn3V9iu/0LWMDQ=<br>
 -----END CERTIFICATE-----<br>
 </ca><br>
 <connection><br>
-remote 34.29.208.198 1194 udp<br>
+remote 34.30.208.198 1194 udp<br>
 </connection><br>
 
 </details>
